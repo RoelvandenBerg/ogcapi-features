@@ -15,3 +15,4 @@ We welcome pull requests to update this page to add or update an entry for a ser
 - [pg_featureserv](pg_featureserv.md)
 - [MapServer](mapserver.md)
 - [deegree](deegree.md)
+- [Gokoala](gokoala.md)
