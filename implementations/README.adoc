@@ -91,6 +91,13 @@ The columns for each part list the conformance classes of the standard that are 
 | -
 | https://www.ogc.org/resources/product-details/?pid=1736[Link]
 | https://www.deegree.org/community/[List of contacts]
+
+| link:servers/gokoala.md[GoKoala]
+| `core`, `oas30`, `geojson`, `html`
+| `crs`
+| #to be updated#
+| -
+| https://www.pdok.nl/contact[Dutch Contact]
 |===
 
 ## Clients
